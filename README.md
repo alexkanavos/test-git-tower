@@ -1,4 +1,4 @@
-# Ball falling the top of a tower
+# Ball falling from the top of a tower
 
 **Version 1.0.0**
 
